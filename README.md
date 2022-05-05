@@ -1,4 +1,4 @@
-### Hi there 👋
+### Technical Competencies
 
 #### Mobile/Wireless domain
 3GPP, SS7 - ISUP, TCAP, INAP for Revenue Management, Policy Control & Charging (OCS, GGSN, PCRF, PCEF) & adjacent nodes (Multi-Activation, Multi-Mediation, HLR, HSS, Billing, Voucher Server, Business Analytics, Partner Relation Management & Campaign Management.
